@@ -1,3 +1,53 @@
-* {
-    background-color:rgb(0, 68, 255);
+body{
+    background-image: url(adam-kool-ndN00KmbJ1c-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 2%;
+    padding: 2%;
+    height: 100px;
+}
+
+.header{
+    display: flex;
+    height: 5%;
+}
+
+.name{
+    margin-left: 3%;
+    color: #000;
+    margin-top: 3%;
+}
+
+.aboutmetitle{
+    color:aliceblue;
+    margin-left: 3%;
+}
+
+.aboutmedescription{
+    color:aliceblue;
+    margin-left: 3%;
+}
+
+.projectstitle{
+    color:aliceblue;
+    margin-left: 3%;
+}
+.projectsdescription{
+    color:aliceblue;
+    margin-left: 3%;
+}
+
+.contactmetitle{
+    color:aliceblue;
+    margin-left: 3%;
+}
+.contactmedescription{
+    color:aliceblue;
+    margin-left: 3%;
 }
