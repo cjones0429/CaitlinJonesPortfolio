@@ -1,3 +1,5 @@
+
+
 body{
     background-image: url(adam-kool-ndN00KmbJ1c-unsplash.jpg);
     background-size: cover;
@@ -18,10 +20,44 @@ body{
     height: 5%;
 }
 
+.nav-home{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 2vw;
+}
+
+.nav-about{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 2vw;
+}
+
+.nav-projects{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 2vw;
+}
+
+.nav-contact{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 2vw;
+}
+
 .name{
-    margin-left: 3%;
-    color: #000;
-    margin-top: 3%;
+    /* margin-left: 3%; */
+    color:aliceblue;
+    margin-top: 5%;
+    font-size: 4vw;
+    text-align: center;
 }
 
 .aboutmetitle{
