@@ -1,10 +1,19 @@
 
 
 body{
-    background-image: url(adam-kool-ndN00KmbJ1c-unsplash.jpg);
+    
+    background-image: url(adam-kool-ndN00KmbJ1c-unsplash.jpg); 
     background-size: cover;
     background-repeat: no-repeat;
+} 
+ 
+.header{
+    display: flex;
+    height: 5%;
 }
+
+
+/* navigation bar */
 
 .navbar{
     display: flex;
@@ -13,11 +22,6 @@ body{
     margin: 2%;
     padding: 2%;
     height: 100px;
-}
-
-.header{
-    display: flex;
-    height: 5%;
 }
 
 .nav-home{
@@ -55,35 +59,83 @@ body{
 .name{
     /* margin-left: 3%; */
     color:aliceblue;
-    margin-top: 5%;
+    margin-top: 10%;
     font-size: 4vw;
     text-align: center;
+    font-style: bold;
 }
+
+
+/* about me section */
 
 .aboutmetitle{
     color:aliceblue;
-    margin-left: 3%;
+    /* margin-left: 3%; */
+    font-size: 3vw;
+    text-decoration: underline;
+    text-align: center;
+    font-style: bold;
 }
 
 .aboutmedescription{
     color:aliceblue;
-    margin-left: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 7%;  
+    margin-left: 60%;
+    font-size: 2vw;
+    font-style: bold;
 }
+
+
+/* projects section */
 
 .projectstitle{
     color:aliceblue;
-    margin-left: 3%;
+    /* margin-left: 3%; */
+    font-size: 3vw;
+    text-decoration: underline;
+    text-align: center;
+    font-style: bold;
 }
 .projectsdescription{
     color:aliceblue;
     margin-left: 3%;
+    font-size: 2vw;
 }
+
+.project1{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 3%;
+    margin-right: 2%;
+    font-size: 1.5vw;
+    color:aliceblue;
+}
+
+/* contact section */
 
 .contactmetitle{
     color:aliceblue;
-    margin-left: 3%;
+    /* margin-left: 3%; */
+    font-size: 3vw;
+    text-decoration: underline;
+    text-align: center;
+    font-style: bold;
 }
 .contactmedescription{
     color:aliceblue;
     margin-left: 3%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    font-size: 2vw;
+}
+
+.emailme{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 3%;
+    margin-right: 2%;
+    font-size: 1.8vw;
+    color:aliceblue;
 }
