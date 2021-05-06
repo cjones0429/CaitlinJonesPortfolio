@@ -23,6 +23,11 @@ body{
     padding: 2%;
     height: 100px;
 }
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+    font-size: 2vw;
+}
 
 .nav-home{
     margin-top: 2%;
@@ -81,12 +86,21 @@ body{
     color:aliceblue;
     margin-top: 2%;
     margin-bottom: 2%;
-    margin-right: 7%;  
-    margin-left: 60%;
+    margin-left: 4%;
+    margin-right: 4%;
     font-size: 2.5vw;
-    font-style: bold;
-}
+    font-style: bold; 
+    text-align:center;
+} 
 
+.responsive{
+    display: block;
+    width: 30%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 3%;
+    margin-right: auto;
+} 
 
 /* projects section */
 
@@ -100,7 +114,7 @@ body{
 }
 .projectsdescription{
     color:aliceblue;
-    margin-left: 3%;
+    /* margin-left: 3%; */
     font-size: 2.5vw;
     text-align: center;
 }
@@ -135,7 +149,7 @@ body{
 }
 .contactmedescription{
     color:aliceblue;
-    margin-left: 3%;
+    /* margin-left: 3%; */
     margin-top: 1%;
     margin-bottom: 2%;
     font-size: 2.5vw;
