@@ -60,7 +60,7 @@ body{
     /* margin-left: 3%; */
     color:aliceblue;
     margin-top: 10%;
-    font-size: 4vw;
+    font-size: 4.5vw;
     text-align: center;
     font-style: bold;
 }
@@ -71,7 +71,7 @@ body{
 .aboutmetitle{
     color:aliceblue;
     /* margin-left: 3%; */
-    font-size: 3vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     text-align: center;
     font-style: bold;
@@ -83,7 +83,7 @@ body{
     margin-bottom: 2%;
     margin-right: 7%;  
     margin-left: 60%;
-    font-size: 2vw;
+    font-size: 2.5vw;
     font-style: bold;
 }
 
@@ -93,7 +93,7 @@ body{
 .projectstitle{
     color:aliceblue;
     /* margin-left: 3%; */
-    font-size: 3vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     text-align: center;
     font-style: bold;
@@ -101,7 +101,8 @@ body{
 .projectsdescription{
     color:aliceblue;
     margin-left: 3%;
-    font-size: 2vw;
+    font-size: 2.5vw;
+    text-align: center;
 }
 
 .project1{
@@ -109,7 +110,16 @@ body{
     margin-bottom: 2%;
     margin-left: 3%;
     margin-right: 2%;
-    font-size: 1.5vw;
+    font-size: 2vw;
+    color:aliceblue;
+}
+
+.project2{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 3%;
+    margin-right: 2%;
+    font-size: 2vw;
     color:aliceblue;
 }
 
@@ -118,7 +128,7 @@ body{
 .contactmetitle{
     color:aliceblue;
     /* margin-left: 3%; */
-    font-size: 3vw;
+    font-size: 3.5vw;
     text-decoration: underline;
     text-align: center;
     font-style: bold;
@@ -128,7 +138,8 @@ body{
     margin-left: 3%;
     margin-top: 1%;
     margin-bottom: 2%;
-    font-size: 2vw;
+    font-size: 2.5vw;
+    text-align: center;
 }
 
 .emailme{
@@ -136,6 +147,7 @@ body{
     margin-bottom: 2%;
     margin-left: 3%;
     margin-right: 2%;
-    font-size: 1.8vw;
+    font-size: 2vw;
     color:aliceblue;
+    text-align: center;
 }
